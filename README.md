@@ -1,6 +1,6 @@
-# Aplicativo de Cliente de Email com Kivy
+# Aplicativo de Cliente de Email (Gmail) com Kivy
 
-Este é um aplicativo simples de cliente de email construído com o framework Kivy, que permite enviar e receber emails usando seu servidor SMTP e o protocolo IMAP. A seguir, fornecemos detalhes sobre as linguagens, dependências e como configurar o ambiente para rodar o aplicativo em sua máquina.
+Este é um aplicativo simples de cliente de email construído com o framework Kivy, que permite enviar e receber emails usando servidor SMTP e o protocolo IMAP do Gmail. A seguir, fornecemos detalhes sobre as linguagens, dependências e como configurar o ambiente para rodar o aplicativo em sua máquina.
 
 ## Linguagens e Frameworks Utilizados
 
